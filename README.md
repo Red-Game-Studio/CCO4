@@ -1,2 +1,2 @@
-# Cookie Clicker Online v4
-v4 Cookie Lib will be released here for developers.
+# Cookie Clicker Online
+Cookie Clicker Online is a modification of Cookie Clicker with extended mod support and internet play.
